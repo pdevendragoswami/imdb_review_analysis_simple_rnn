@@ -15,7 +15,7 @@ word_index = get_word_index()
 reversed_word_index = {value : key for key, value in word_index.items()}
 
 #loading the trained model weights
-model = load_model("simple_rnn_colab.h5")
+model = load_model("simple_rnn_colab.keras")
 st.write("model loaded")
 
 #function to decode the review
