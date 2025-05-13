@@ -16,6 +16,7 @@ reversed_word_index = {value : key for key, value in word_index.items()}
 
 #loading the trained model weights
 model = load_model("simple_rnn.h5")
+st.write("model loaded")
 
 #function to decode the review
 def decoded_review(encoded_review):

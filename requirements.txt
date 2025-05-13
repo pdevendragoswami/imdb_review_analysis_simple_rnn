@@ -1,10 +1,10 @@
-numpy==1.24.3
+numpy
 pandas
 streamlit
 ipykernel
 tensorboard
 matplotlib
-scikeras==0.12.0
-scikit-learn==1.3.2
-tensorflow==2.10.1
-protobuf==3.20.*    
+scikeras
+scikit-learn
+tensorflow
+protobuf 
