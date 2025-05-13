@@ -1,0 +1,10 @@
+#Python==3.10.17
+numpy==1.24.3
+pandas
+streamlit
+ipykernel
+tensorboard
+matplotlib
+scikeras==0.12.0
+scikit-learn==1.3.2
+tensorflow==2.10.1
